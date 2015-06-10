@@ -1,0 +1,1 @@
+Spring Security with dynamic role management
